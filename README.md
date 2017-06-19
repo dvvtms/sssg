@@ -8,9 +8,9 @@ $ npm install
 ```
 $ npm run start
 ```
-or
+if first time:
 ```
-$ npm run serve
+$ npm run build
 ```
 
 * [metalsmith](http://www.metalsmith.io/) 
